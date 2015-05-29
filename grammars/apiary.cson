@@ -1,6 +1,6 @@
 'scopeName': 'source.apiary'
 'name': 'Apiary'
-'fileTypes': ['apiary']
+'fileTypes': ['apiary', 'apib']
 'patterns': [
   {
     'match': '\\+ (Parameters|Response|Request).*'
