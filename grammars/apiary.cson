@@ -3,11 +3,11 @@
 'fileTypes': ['apiary', 'apib']
 'patterns': [
   {
-    'match': '(\\+|\\*|\\-) (Parameters|Response|Request).*'
-    'name': 'variable'
+    'match': '^#+.*&'
+    'name': 'constant'
   }
   {
-    'match': '#+.*'
-    'name': 'constant'
+    'match': '^(\\+|\\*|\\-).*$'
+    'name': 'variable'
   }
 ]
