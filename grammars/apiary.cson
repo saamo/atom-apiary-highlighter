@@ -3,7 +3,7 @@
 'fileTypes': ['apiary', 'apib']
 'patterns': [
   {
-    'match': '^#+.*&'
+    'match': '^#+.*$'
     'name': 'constant'
   }
   {
