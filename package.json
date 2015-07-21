@@ -1,6 +1,6 @@
 {
   "name": "apiary-highlighter",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "Apiary Blueprint Highlighter for Atom",
   "author": "Samir Djellil <samir@djellil.com>",
   "license": "MIT",
